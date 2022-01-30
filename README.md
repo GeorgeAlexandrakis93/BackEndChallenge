@@ -1,5 +1,3 @@
-Laravel version: 8.79.0
-
 The goal is to create a RESTful api for a simplified maritime application, using Laravel and PostgreSQL.
 Through this challenge, you will be able to demonstrate how you break down and solve a problem, how you structure code and finally, some basic and intermediate SQL skills. You are also expected to make commits with verbose messages that reveal the committed code functionality.
 The application consists of 3 basic entities:
@@ -82,5 +80,5 @@ The response format should resemble like the following:
 ]
 
 5.	***Bonus<br>
-a.	When updating the name of a vessel, trigger an update for all voyages of the updated vessel.
+a.	When updating the name of a vessel, trigger an update for all voyages of the updated vessel.<br>
 b.	When updating the starting date of a voyage, auto update its code.
