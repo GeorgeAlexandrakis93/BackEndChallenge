@@ -81,8 +81,6 @@ The response format should resemble like the following:
 	}
 ]
 
-5.	***Bonus - Do this ONLY if you have everything else completed.
+5.	***Bonus
 a.	When updating the name of a vessel, trigger an update for all voyages of the updated vessel.
 b.	When updating the starting date of a voyage, auto update its code.
-
-Good Luck!
